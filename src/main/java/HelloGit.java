@@ -9,5 +9,6 @@ public class HelloGit {
     System.out.println("helloWorld03");
     System.out.println("helloWorld05T");
     System.out.println("helloWorld04");
+    System.out.println("pull test");
   }
 }
